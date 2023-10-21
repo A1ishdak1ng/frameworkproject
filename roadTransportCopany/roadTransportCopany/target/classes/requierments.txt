@@ -1,0 +1,37 @@
+3rd part: Clients Application – (web-application or Windows application no Mobile. Visual Studio (C#, C++), NetBeans, Java, Python, PL/SQL or others)
+
+deadline for draft version -15th week.
+
+Grant access to users  +
+
+Output of data in the client application by separate fields:
+
+-Photo, Pictures input, output; and other Data input, output.
+
+Use components:
+
+-Radiobuttons,
+
+-Checkbox,
+
+-Combobox, +
+
+-DBtext, etc.
+
+-Navigator
+
+Output data to the application Grid view
+
+Bind tables separate fields with a table in the form of a grid   ?
+
+Calculated fields (examples: Client's Age, Orders Amount, etc.)  +
+
+Data search (examples: by Name, Address, Phone, etc.) +
+
+Data sorting  ------ should be done  next
+
+Data filter (Cascade rows by binding tables)  +
+
+Use Stored Procedures by Clients Application.
+
+Use DML triggers by Clients Application

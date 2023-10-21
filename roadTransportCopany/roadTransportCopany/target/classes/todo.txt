@@ -1,0 +1,2 @@
+select p.id,p.amount, p.created_at_date, t.id from payments p right join trips t on p.trip_id=t.id where p.amount is null
+use this script to add payments to trips
